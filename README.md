@@ -1,19 +1,10 @@
-Unreal Engine Binary Builder
+﻿Unreal Engine Binary Builder
 ======================
+# INSTALL .NET 9.0 FOR USE
 
-<a href="https://www.buymeacoffee.com/ryanjon2040" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-This is a small app designed to create binary build of [Unreal Engine](https://www.unrealengine.com/) from [GitHub source](https://github.com/EpicGames/UnrealEngine).
-
-[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/zBMrKRdwgw)
-
+[Support Author of Original](https://www.buymeacoffee.com/ryanjon2040)
 [<img src="https://img.shields.io/twitter/follow/ryanjon2040.svg?style=popout">](https://twitter.com/ryanjon2040)
 
-![](https://github.com/ryanjon2040/UE4-Binary-Builder/actions/workflows/build-ubb.yml/badge.svg)
-![](https://img.shields.io/github/last-commit/ryanjon2040/UE4-Binary-Builder.svg?style=popout) 
-![](https://img.shields.io/github/license/ryanjon2040/UE4-Binary-Builder.svg?style=popout) ![](https://img.shields.io/github/downloads/ryanjon2040/UE4-Binary-Builder/total.svg?style=popout) 
-
-![](https://img.shields.io/github/languages/code-size/ryanjon2040/UE4-Binary-Builder.svg?style=flat) ![](https://img.shields.io/github/repo-size/ryanjon2040/UE4-Binary-Builder.svg?style=flat)
 
 Watch the below video to get an idea.
 [![Watch the video](https://img.youtube.com/vi/fuvvBMrWX8s/maxresdefault.jpg)](https://youtu.be/fuvvBMrWX8s)
@@ -74,3 +65,4 @@ On Windows, just change the ownership to Users then try again. To change ownersh
 [NetSparkle](https://github.com/NetSparkleUpdater/NetSparkle) by [NetSparkleUpdater](https://github.com/NetSparkleUpdater)
 
 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>a
+
